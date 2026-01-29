@@ -6,6 +6,6 @@ namespace GitFun
 {
     internal class FunPage
     {
-        
+        // leave a comment 
     }
 }
